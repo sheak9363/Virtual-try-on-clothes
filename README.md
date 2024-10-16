@@ -1,8 +1,8 @@
-# Virtual Room Try-On for cloths(shirts)
+# Virtual Room Try-On for clothes(shirts)
 
 ## Overview
 
-This project demonstrates a virtual room try-on feature for cloths (shirts) using computer vision. Using Mediapipe for facial landmark detection and OpenCV for image manipulation, we overlay a shirt on a user's body in real-time via webcam.
+This project demonstrates a virtual room try-on feature for clothes (shirts) using computer vision. Using Mediapipe for facial landmark detection and OpenCV for image manipulation, we overlay a shirt on a user's body in real-time via webcam.
 
 ## Features
 
